@@ -14,7 +14,9 @@ After this stage we divided the tasks based on each ones interest, available tim
 
 My part in this project:
 
--Rest api parts my frontend objects use -Front end classes: Withdraw (DebitWithdraw and DebitAmountWithdraw)
+-Rest api parts my frontend objects use 
+-Front end classes: Withdraw (DebitWithdraw and DebitAmountWithdraw)
+-Final styling of front end
 
 (PLEASE NOTE: According to the merge history of the project it appears almost everything was added by Tero. It looks like this because all the merging/stitching before main was done in Teros branch, since Tero needed to ensure that the updates work with his session class. Most of the time the updates were not merged in to Teros branch, the code was copied from texts to ensure working background paths in QT.)
 
